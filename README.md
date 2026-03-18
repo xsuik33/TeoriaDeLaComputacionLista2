@@ -1,0 +1,2 @@
+# TEORIADELACOMPUTACIONLISTA2
+Lista de Ejercicios 2
